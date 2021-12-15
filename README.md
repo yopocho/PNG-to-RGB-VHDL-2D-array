@@ -2,7 +2,7 @@
 Processing application to convert a .PNG image to a pasteable 2D array with the pixels RGB data, applicable for VGA control.
 
 **HOW TO USE**
-This program only accepts .PNG images, so make sure that whatever image you want to convert a .PNG is.
+This program only accepts .PNG images, so make sure that whatever image you want to convert is a .PNG.
 
 
 1. Rename your image to "image.png", en put it in the same directory as the executable.
